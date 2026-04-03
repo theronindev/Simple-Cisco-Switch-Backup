@@ -33,9 +33,8 @@
 
 ## 📸 Screenshot
 
-> _Add a screenshot of your application here._
-![screenshots](screenshot1.png)
-![screenshots](screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ---
 
@@ -52,7 +51,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/cisco-backup-software.git
+   git clone https://github.com/theronindev/Simple-Cisco-Switch-Backup.git
    cd cisco-backup-software
    ```
 
